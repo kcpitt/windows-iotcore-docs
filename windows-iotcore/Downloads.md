@@ -1,12 +1,12 @@
 ---
 author: saraclay
-Description: 'Download files for Windows 10 IoT Core.'
+Description: Download files for Windows 10 IoT Core.
 title: 'Downloads'
 ms.author: saclayt
 ms.date: 10/05/18
 ms.topic: article
 ms.prod: windows-iot
-ms.technology: windows-iot
+ms.technology: IoT
 ---
 
 # Downloads
